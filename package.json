@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "Simple todo app focused on backend",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashutoshbot1/Todo-App-Backend.git"
+  },
+  "author": "Ashutokumar Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashutoshbot1/Todo-App-Backend/issues"
+  },
+  "homepage": "https://github.com/Ashutoshbot1/Todo-App-Backend#readme"
+}
